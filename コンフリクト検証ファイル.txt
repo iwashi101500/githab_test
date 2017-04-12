@@ -7,5 +7,10 @@
 
 岩城が編集するところ
 {
-    
+#include
+Walked
+Alf
+And
+Sd;as
+nflsa
 }
